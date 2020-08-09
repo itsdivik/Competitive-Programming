@@ -1,2 +1,2 @@
-# LeetCode Solutions
-# Written in `C++`
+# LeetCode Solutions 
+*Written in `C++`
